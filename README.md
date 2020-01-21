@@ -3,7 +3,7 @@ Techcrunch News App with React Native
 
 #
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zauribrahimkhalilov/react-native-mobx-weatherapp/master/screenshot/home.jpg" width="200" height="400"></li>
+  <img src="https://raw.githubusercontent.com/zauribrahimkhalilov/react-native-mobx-weatherapp/master/screenshot/home.png" width="200" height="400"></li>
 </div>
 
 # Installation
