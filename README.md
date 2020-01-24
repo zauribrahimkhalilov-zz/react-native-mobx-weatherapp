@@ -1,5 +1,5 @@
 # react-native-mobx-weatherapp
-Techcrunch News App with React Native
+Weather application with React Native and MobX
 
 #
 <div align="center">
