@@ -28,7 +28,7 @@ decorate(Store, {
     text: observable,
     updateText: action,
     data: observable,
-    searchImage: action,
+    searchCountry: action,
     setData: action,
 });
 
